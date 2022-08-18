@@ -1,4 +1,4 @@
-module archive-opener
+module github.com/mkokoulin/archive-opener
 
 go 1.18
 
